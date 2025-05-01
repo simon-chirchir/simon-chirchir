@@ -1,11 +1,15 @@
 ## Hello Everyone, I'm Simon Chirchir Software Deveveloper. 👋
 const Simon Chirchir = {
-    code: ["AL" , "Javascript","Python"],
-    askMeAbout: ["Dynamics 365 Business Central","Django", "Flask", "Data Anlysis","Data Scientist"],
+
+    Code: ["AL" , "Javascript","Python"],
+
+    AboutMe: ["Dynamics 365 Business Central","Django", "Flask", "Data Anlysis","Data Scientist"],
+
     Frameworks: {
+        
         FrontEnd: {
-            css: ["HTML","CSS","Bootstrap"],
-            js: ["React" , "React Native"]
+            CSS: ["HTML","CSS","Bootstrap"],
+            Js: ["React" , "React Native"]
         },
         BackEnd: {
            Dynamics Business Central:["AL"],
