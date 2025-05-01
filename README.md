@@ -6,7 +6,7 @@ const Simon Chirchir = {
     AboutMe: ["Dynamics 365 Business Central","Django", "Flask", "Data Anlysis","Data Scientist"],
 
     Frameworks: {
-        
+
         FrontEnd: {
             CSS: ["HTML","CSS","Bootstrap"],
             Js: ["React" , "React Native"]
@@ -23,6 +23,9 @@ const Simon Chirchir = {
     
 };
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <!--
 **simon-chirchir/simon-chirchir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
