@@ -1,4 +1,4 @@
-## Hello Everyone, I'm Simon Chirchir Software Deveveloper. 👋
+## Hello Everyone, I'm Simon Chirchir Software Developer. 👋
 const Simon Chirchir = {
 
     Code: ["AL" , "Javascript","Python"],
