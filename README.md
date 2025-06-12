@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 | Language | Frameworks | Database | Tools |
 |---------|------------|----------|-------|
+![C/AL](https://img.shields.io/badge/C%2FAL-00599C?style=flat&logo=code&logoColor=white) | ![Business Central](https://img.shields.io/badge/Business%20Central-0078D4?style=flat&logo=microsoft&logoColor=white) | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |[Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white),![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
