@@ -81,3 +81,21 @@ _“Code is like humor. When you have to explain it, it’s bad.” – Cory Hou
 
 <p align="center"><em>Let’s build something cool together!</em></p>
 
+
+### 🧑‍💻 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=simon-chirchir&show_icons=true&theme=radical&count_private=true)
+
+### 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=simon-chirchir&theme=react-dark&hide_border=true)
+
+### 🧪 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-chirchir&layout=compact&theme=radical)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simon-chirchir&theme=algolia)
+
+
