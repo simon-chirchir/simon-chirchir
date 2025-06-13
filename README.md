@@ -56,12 +56,21 @@ Here are some ideas to get you started:
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=simon-chirchir&theme=react-dark&hide_border=true)
 
+ ## Overview of Github Operations
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=simon-chirchir&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-chirchir&layout=compact&theme=radical)
+
+
+
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simon-chirchir&show_icons=true&theme=radical" alt="yourusername's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simon-chirchir&theme=radical" alt="GitHub Streak" />
 </p>
 
 
@@ -90,16 +99,6 @@ _“Code is like humor. When you have to explain it, it’s bad.” – Cory Hou
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=simon-chirchir&show_icons=true&theme=radical&count_private=true)
 
 
-
-### 🧪 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-chirchir&layout=compact&theme=radical)
- ## Streaka
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=simon-chirchir&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-chirchir&layout=compact&theme=radical)
 
 
 
