@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 
 
 ---
+### 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=simon-chirchir&theme=react-dark&hide_border=true)
 
 ## 📈 GitHub Statistics
 
@@ -86,16 +89,18 @@ _“Code is like humor. When you have to explain it, it’s bad.” – Cory Hou
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=simon-chirchir&show_icons=true&theme=radical&count_private=true)
 
-### 📈 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=simon-chirchir&theme=react-dark&hide_border=true)
 
 ### 🧪 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-chirchir&layout=compact&theme=radical)
+ ## Streaka
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=simon-chirchir&theme=radical)
 
-### 🏆 GitHub Trophies
+## Top Languages
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simon-chirchir&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-chirchir&layout=compact&theme=radical)
+
+
 
 
