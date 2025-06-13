@@ -1,5 +1,5 @@
 ## Hello Everyone, I'm Simon Chirchir Software Engineer.
-I'm a passionate **Software Engineer** with 4+ years of experience building robust ERP Systems, RESTful APIs, and scalable web applications using **AL**,**Python**, **Flask**, and **Django**.
+I'm a passionate **Software Engineer** with 4+ years of experience Design,Building and Deployment of Robust ERP Systems, RESTful APIs, and Scalable Web applications using **AL**,**Python**, **Flask**, and **Django**.
 
 const Simon Chirchir = {
 
