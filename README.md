@@ -69,8 +69,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simon-chirchir&show_icons=true&theme=radical" alt="yourusername's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simon-chirchir&theme=radical" alt="GitHub Streak" />
 </p>
 
 
@@ -93,10 +91,6 @@ _“Code is like humor. When you have to explain it, it’s bad.” – Cory Hou
 
 <p align="center"><em>Let’s build something cool together!</em></p>
 
-
-### 🧑‍💻 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=simon-chirchir&show_icons=true&theme=radical&count_private=true)
 
 
 
