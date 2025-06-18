@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=simon-chirchir&theme=react-dark&hide_border=true)
 
  ## Overview of Github Operations
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=simon-chirchir&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=simon-chirchir&theme=radical)
 
 ## Top Languages
 
